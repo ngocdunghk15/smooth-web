@@ -1,11 +1,12 @@
+// import internal files
 import './App.css';
-import Navbar from './components/Navbar'
-
+import Homepage from './pages'
+// import from outside lib
 import { BrowserRouter as Router } from 'react-router-dom'
 function App() {
   return (
     <Router>
-      <Navbar />
+      <Homepage />
     </Router>
   );
 }
