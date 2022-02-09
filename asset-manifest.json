@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/smooth-web/static/css/main.0efd227c.css",
-    "main.js": "/smooth-web/static/js/main.18733da2.js",
+    "main.js": "/smooth-web/static/js/main.1e587315.js",
     "index.html": "/smooth-web/index.html",
     "main.0efd227c.css.map": "/smooth-web/static/css/main.0efd227c.css.map",
-    "main.18733da2.js.map": "/smooth-web/static/js/main.18733da2.js.map"
+    "main.1e587315.js.map": "/smooth-web/static/js/main.1e587315.js.map"
   },
   "entrypoints": [
     "static/css/main.0efd227c.css",
-    "static/js/main.18733da2.js"
+    "static/js/main.1e587315.js"
   ]
 }
