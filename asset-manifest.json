@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ngocdunghk15/smooth-web/static/css/main.073c9b0a.css",
+    "main.js": "/ngocdunghk15/smooth-web/static/js/main.e364897e.js",
+    "static/js/787.29bc8243.chunk.js": "/ngocdunghk15/smooth-web/static/js/787.29bc8243.chunk.js",
+    "static/media/logo.svg": "/ngocdunghk15/smooth-web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ngocdunghk15/smooth-web/index.html",
+    "main.073c9b0a.css.map": "/ngocdunghk15/smooth-web/static/css/main.073c9b0a.css.map",
+    "main.e364897e.js.map": "/ngocdunghk15/smooth-web/static/js/main.e364897e.js.map",
+    "787.29bc8243.chunk.js.map": "/ngocdunghk15/smooth-web/static/js/787.29bc8243.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e364897e.js"
+  ]
+}
