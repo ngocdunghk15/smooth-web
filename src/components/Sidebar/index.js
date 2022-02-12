@@ -10,7 +10,6 @@ import {
     SidebarMenu
 } from './SidebarElement'
 const Sidebar = ({ isOpen, toggle }) => {
-    console.log(toggle)
     return (
         <SidebarContainer isOpen={isOpen} onClick={toggle}>
             <Icon onClick={toggle}>
