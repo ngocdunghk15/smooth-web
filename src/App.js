@@ -4,15 +4,15 @@ import Homepage from './pages'
 import SigninPage from './pages/signin';
 
 // import from outside lib
-import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import { BrowserRouter, Routes, Route,HashRouter } from 'react-router-dom'
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<Homepage/>} exact />
         <Route path="/signin" element={<SigninPage/>} exact />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
